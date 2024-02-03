@@ -1,3 +1,3 @@
 # WebSite
 
-[Clic Here to acces on WebSite](https://mcp-hub.github.io)
+[Clic Here to go on WebSite](https://mcp-hub.github.io)
