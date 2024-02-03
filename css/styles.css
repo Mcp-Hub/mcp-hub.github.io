@@ -32,6 +32,15 @@ body {
 	background-repeat: no-repeat;
 }
 
+
+.logo { display: block; margin: auto; }
+
+
+.title-container .logo {
+    width: 600px; /* ou la taille que vous préférez */
+}
+
+
 header {
 	display: flex;
 	justify-content: space-between;
